@@ -1089,6 +1089,12 @@
 	.pdf_link a:hover {
 		text-decoration: underline;
 	}
+	.spotify {
+		font-size: .75em;
+		font-style: italic;
+	}
+
+	
 
 /*********************************************************************************/
 /* Footer                                                                        */
